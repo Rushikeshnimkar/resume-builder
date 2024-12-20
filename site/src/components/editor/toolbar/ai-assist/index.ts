@@ -1,0 +1,1 @@
+export { default as EditorToolbarAIAssist } from './index.vue' 
